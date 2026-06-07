@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe Sodré Pessôa 👋
+# Olá, me chamo Felipe Sodré Pessôa 👋👋
 
 **Student | Developer | JavaScript Enthusiast**
 
