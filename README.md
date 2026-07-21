@@ -1,71 +1,82 @@
-# Olá, me chamo Felipe Sodré Pessôa 👋👋
+# Olá, me chamo Felipe Sodré Pessôa 👋
 
-**Student | Developer | JavaScript Enthusiast**
+**Information Systems Student | JavaScript & TypeScript Developer | Open to Internship Opportunities**
 
-Estudando Sistemas de Informação e apaixonado por tecnologia, educação e desenvolvimento. Atualmente trabalhando em projetos educativos e aprendendo as melhores práticas de desenvolvimento.
+🎓 Estudante de Sistemas de Informação apaixonado por tecnologia, desenvolvimento web e soluções que geram impacto. Atualmente desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em desenvolvimento full-stack.
 
-📍 **São Paulo, Brasil** 
+📍 São Paulo, Brasil
 
 ---
 
-## 🛠️ Stacks & Tecnologias
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Sobre Mim
+## 📚 About Me
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 💻 Desenvolvedor iniciante focado em **JavaScript**
-- 🎮 Criador de projetos educativos e interativos
-- 🚀 Sempre aprendendo e buscando evoluir
-- 📖 Interesse em **web development** e **tech education**
-
-## 🎯 Projetos em Destaque
-
-### 🎮 [Projeto-Jogo-Educativo-IBM](https://github.com/Felipe-Sodre/Projeto-Jogo-Educativo-IBM)
-Um projeto educativo desenvolvido em JavaScript em framework Phaser com foco em gamificação de aprendizado.
-- **Linguagem:** JavaScript
-- **Status:** Finalizado
-
-## 🎯 Projetos em Destaque
-
-### 🎮 Sistema Web, para ONG PulseMais
-Um projeto em parceria com a ONG PulseMais onde resolvemos uma dor de uma planilha de dados gigante em um sistema web com banco de dados
-- **Linguagem:** JavaScript, TypeScript, SQ
-- **Status:** Em andamento
-
+- 🎓 Information Systems student
+- 💻 Full-stack development enthusiast
+- ⚡ Main languages: **JavaScript** and **TypeScript**
+- 🚀 Always learning new technologies and best development practices
+- 🌐 Interested in Web Development and Software Engineering
 
 ---
 
-## 🌐 Me Encontre
+## 🚀 Featured Projects
+
+### 🎮 [IBM Educational Game](https://github.com/Felipe-Sodre/Projeto-Jogo-Educativo-IBM)
+
+Educational game developed with **JavaScript** and the **Phaser** framework to support learning through gamification.
+
+**Technologies:** JavaScript • Phaser • HTML • CSS
+
+**Status:** ✅ Completed
+
+---
+
+### 💙 [Pulse Mais – NGO Management System](https://github.com/Felipe-Sodre/Projeto-Sistema-Web-Pulse-Mais)
+
+A full-stack web application developed in partnership with the NGO **Pulse Mais**. The system replaces multiple spreadsheets with a centralized platform, making information management more organized, efficient, and accessible.
+
+**Technologies:** JavaScript • TypeScript • Node.js • SQL
+
+**Status:** ✅ Completed
+
+---
+
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sodr%C3%A9-pess%C3%B4a/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Sodre)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@EMAIL.COM)
 
 ---
 
-## 🎯 Meus Objetivos
+## 🎯 Career Goals
 
-- ✅ Aprofundar conhecimento em **JavaScript**
-- ✅ Criar projetos **web completos**
-- ✅ Contribuir em **projetos open source**
-- ✅ Desenvolver **portfólio** sólido
-- ✅ Conectar com a **comunidade dev**
+- 📚 Improve my JavaScript and TypeScript skills
+- 🌐 Build complete full-stack web applications
+- 🤝 Contribute to open-source projects
+- 💼 Secure a Software Development Internship
+- 🚀 Continue growing as a developer
 
 ---
 
-## 💡 Fatos Curiosos
+## 💡 Fun Facts
 
-- 🌙 Tipo de desenvolvedor: **noturno**
-- 📖 Gosto de aprender com **desafios práticos**
-- 🤝 Aberto a **colaborações e networking**
+- 🌙 Night owl developer
+- 📖 I enjoy learning through hands-on projects
+- 🤝 Always open to collaboration and networking
 
 
 
