@@ -78,5 +78,8 @@ A full-stack web application developed in partnership with the NGO **Pulse Mais*
 - 📖 I enjoy learning through hands-on projects
 - 🤝 Always open to collaboration and networking
 
+Contributions that I made in the gitlab account --> 
+
+<img width="1128" height="257" alt="image" src="https://github.com/user-attachments/assets/0a1a8767-4404-4ade-8244-c4f6f937aca3" />
 
 
