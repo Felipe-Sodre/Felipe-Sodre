@@ -1,4 +1,4 @@
-# Olá, me chamo Felipe Sodré Pessôa 👋
+# Olá, me chamo Felipe 👋
 
 **Information Systems Student | JavaScript & TypeScript Developer | Open to Internship Opportunities**
 
