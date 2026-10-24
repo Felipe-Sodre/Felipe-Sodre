@@ -1,8 +1,8 @@
 # Olá, me chamo Felipe 👋
 
-**Information Systems Student | JavaScript & TypeScript Developer | Open to Internship Opportunities**
+**Information Systems Student | JavaScript & TypeScript Developer 
 
-🎓 Estudante de Sistemas de Informação apaixonado por tecnologia, desenvolvimento web e soluções que geram impacto. Atualmente desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em desenvolvimento full-stack.
+🎓 Estudante de Sistemas de Informação apaixonado por tecnologia, desenvolvimento web e soluções que geram impacto. Atualmente desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em desenvolvimento full-stack, programando desde o 8 ano do ensino fundamental. 
 
 📍 São Paulo, Brasil
 
@@ -24,19 +24,57 @@
 
 - 🎓 Information Systems student
 - 💻 Full-stack development enthusiast
-- ⚡ Main languages: **JavaScript** and **TypeScript**
+- ⚡ Main languages: **JavaScript**, **TypeScript** and **Python**
 - 🚀 Always learning new technologies and best development practices
-- 🌐 Interested in Web Development and Software Engineering
-
+  
 ---
 
 ## 🚀 Featured Projects
 
+### 💚 [Whirlpool – predictive model Machine Learning](https://www.linkedin.com/feed/update/urn:li:activity:7516951906343223296/)
+
+> **"Vocês fizeram parte disso."**
+> *("You were part of this.")*
+> — Heitor, CAE Manager at Whirlpool
+
+A predictive tool built in partnership with **Whirlpool**, the global leader in home appliances (Brastemp, Consul), for its stove engineering team. *The code and data are confidential, so the repository is not public.*
+
+**🧩 The problem:** before a new stove reaches stores, engineers need to make sure no part of it gets dangerously hot. Today that means building physical prototypes and running tests that destroy them, which makes each launch expensive and slow.
+
+**💡 The solution:** a tool that, in seconds, estimates how hot each part of the stove will get based on how it is assembled. Engineers can explore many design ideas on the screen, discard the bad ones early and save the physical tests for the designs that really need them. It also warns when an estimate is not reliable enough, so safety always comes first.
+
+**🙋 What I did:**
+- Served as **Scrum Master**, organizing the team's sprints and keeping delivery on track
+- Wrote the statistical analysis code in **Pandas** and led data analysis
+- Created the **user personas** based on the Whirlpool engineers who use the tool
+- Formulated and tested **hypotheses in Python** about what drives temperature
+- Built **feature engineering** steps to prepare the data for the model
+- Presented the evaluation **metrics (such as RMSE)** to show how reliable the model is
+- Wrote the project **documentation**, including conclusions and recommendations to Whirlpool
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f9db85f-ed2a-47ad-ae94-e69a37682119" width="45%" alt="Whirlpool project photo 1" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/2c463993-6366-4e35-a339-e00832172517" width="45%" alt="Whirlpool project photo 2" />
+</p>
+
+**Technologies:** Python • Machine Learning • Data Analysis • Dashboard
+
+**Status:** ✅ Completed
+
+---
+
 ### 🎮 [IBM Educational Game](https://github.com/Felipe-Sodre/Projeto-Jogo-Educativo-IBM)
+
+A web-based educational game developed in partnership with **IBM** to support its **SkillsBuild** AI course.
+
+**🧩 The problem:** many students were dropping out of IBM's SkillsBuild AI course before finishing it. The goal was to make learning more engaging and help reduce this dropout rate through gamification.
+
+**💡 The solution:** we applied the **micro-learning** method to help students learn better and more effectively...
 
 Educational game developed with **JavaScript** and the **Phaser** framework to support learning through gamification.
 
-**Technologies:** JavaScript • Phaser • HTML • CSS
+**Technologies:** JavaScript • Phaser • HTML • CSS • VS Code 
 
 **Status:** ✅ Completed
 
@@ -56,10 +94,6 @@ A full-stack web application developed in partnership with the NGO **Pulse Mais*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sodr%C3%A9-pess%C3%B4a/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felipe-Sodre)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@EMAIL.COM)
-
 ---
 
 ## 🎯 Career Goals
@@ -67,9 +101,6 @@ A full-stack web application developed in partnership with the NGO **Pulse Mais*
 - 📚 Improve my JavaScript and TypeScript skills
 - 🌐 Build complete full-stack web applications
 - 🤝 Contribute to open-source projects
-- 💼 Secure a Software Development Internship
-- 🚀 Continue growing as a developer
-
 ---
 
 ## 💡 Fun Facts
@@ -80,6 +111,4 @@ A full-stack web application developed in partnership with the NGO **Pulse Mais*
 
 Contributions that I made in the gitlab account --> 
 
-<img width="1128" height="257" alt="image" src="https://github.com/user-attachments/assets/0a1a8767-4404-4ade-8244-c4f6f937aca3" />
-
-
+<img width="1162" height="291" alt="image" src="https://github.com/user-attachments/assets/cf84666b-2cd4-4646-98bd-298491aecd68" />
