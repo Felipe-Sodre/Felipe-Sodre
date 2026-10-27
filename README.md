@@ -44,7 +44,6 @@ A predictive tool built in partnership with **Whirlpool**, the global leader in 
 **💡 The solution:** a tool that, in seconds, estimates how hot each part of the stove will get based on how it is assembled. Engineers can explore many design ideas on the screen, discard the bad ones early and save the physical tests for the designs that really need them. It also warns when an estimate is not reliable enough, so safety always comes first.
 
 **🙋 What I did:**
-- Served as **Scrum Master**, organizing the team's sprints and keeping delivery on track
 - Wrote the statistical analysis code in **Pandas** and led data analysis
 - Created the **user personas** based on the Whirlpool engineers who use the tool
 - Formulated and tested **hypotheses in Python** about what drives temperature
@@ -90,6 +89,8 @@ A full-stack web application developed in partnership with the NGO **Pulse Mais*
 
 ---
 
+### 💚 [ Individual projetct  – Machine Learning](https://www.linkedin.com/in/felipe-sodr%C3%A9-pess%C3%B4a/)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sodr%C3%A9-pess%C3%B4a/)
@@ -105,7 +106,7 @@ A full-stack web application developed in partnership with the NGO **Pulse Mais*
 
 ## 💡 Fun Facts
 
-- 🌙 Night owl developer
+- 🌙 Night owl developer 
 - 📖 I enjoy learning through hands-on projects
 - 🤝 Always open to collaboration and networking
 
